@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
+    "@portal-sistemas/mf-login": "http://docker-desa.interseguro.com.pe:3083/js/app.js",
+    "@portal-sistemas/mf-layout": "http://docker-desa.interseguro.com.pe:3084/js/app.js",
+    "@portal-sistemas/mf-comision-masivos": "http://docker-desa.interseguro.com.pe:3085/js/app.js",
+    "@portal-sistemas/root-config": "http://docker-desa.interseguro.com.pe:3082/portal-sistemas-root-config.js"
+  }
+}
